@@ -8,8 +8,7 @@ As stated above, this wallet mimics the functionality of the [**Venmo**](https:/
 - It uses the power of self-executing contracts a.k.a **Smart Contracts**
 - It uses a stable token which is known for it's **non-volatility**.
 - The transactions are **immutable** and hence **resilient** to **adversaries**.
-- Fully promise the promise of **Blockchain** technology.
-
+- Fully realize the promise of **Blockchain** technology.
 
 
 
