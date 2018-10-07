@@ -10,7 +10,11 @@ As stated above, this wallet mimics the functionality of the [**Venmo**](https:/
 - The transactions are **immutable** and hence **resilient** to **adversaries**.
 - Fully realize the promise of **Blockchain** technology.
 
+# Tech Stack
 
+**Front-End** - React
+**Back-End** - Solidity Contracts
+**Archive Database** - MongoDB
 
 
 
