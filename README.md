@@ -16,8 +16,14 @@ As stated above, this wallet mimics the functionality of the [**Venmo**](https:/
 - MongoDB [Archiving]
 
 # Screenshots
+
+##Groups
 ![Groups](/images/groups.png)
+
+## Fund Group
 ![Add Balance](/images/add_balance.png)
+
+## Group Bills
 ![Bills](/images/bills.png)
 
 # Demo
