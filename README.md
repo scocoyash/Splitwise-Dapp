@@ -17,7 +17,7 @@ As stated above, this wallet mimics the functionality of the [**Venmo**](https:/
 
 # Screenshots
 
-##Groups
+## Groups
 ![Groups](/images/groups.png)
 
 ## Fund Group
