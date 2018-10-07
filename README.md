@@ -11,10 +11,26 @@ As stated above, this wallet mimics the functionality of the [**Venmo**](https:/
 - Fully realize the promise of **Blockchain** technology.
 
 # Tech Stack
+- ReactJS [Front-End]
+- Solidity [Back-End]
+- MongoDB [Archiving]
 
-**Front-End** - React
-**Back-End** - Solidity Contracts
-**Archive Database** - MongoDB
+# Future scope
+1.Integrating Portis.io for seamless user experience.
+2.Implementing single tap Dai conversion mechanism.
+3.Allowing user to carry out transactions on different side-chains.
+
+# License!
+MIT
+**Free open-source software**
+
+# Authors
+- Yash Jain
+- Shubham Garg
+- Ankit Shah
+- Gaurav Singhal
+- Ajit Kumar
+- Yashashav DK
 
 
 
