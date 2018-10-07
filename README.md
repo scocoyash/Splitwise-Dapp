@@ -16,9 +16,9 @@ As stated above, this wallet mimics the functionality of the [**Venmo**](https:/
 - MongoDB [Archiving]
 
 # Future scope
-1.Integrating Portis.io for seamless user experience.
-2.Implementing single tap Dai conversion mechanism.
-3.Allowing user to carry out transactions on different side-chains.
+1. Integrating Portis.io for seamless user experience.
+2. Implementing single tap Dai conversion mechanism.
+3. Allowing user to carry out transactions on different side-chains.
 
 # License!
 MIT
