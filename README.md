@@ -15,10 +15,19 @@ As stated above, this wallet mimics the functionality of the [**Venmo**](https:/
 - Solidity [Back-End]
 - MongoDB [Archiving]
 
+# Screenshots
+![Groups](/images/groups.png)
+![Add Balance](/images/add_balance.png)
+![Bills](/images/bills.png)
+
+# Demo
+(https://drive.google.com/file/d/1Snq8YvnjufG_uwgrd7p5eNFwOx-qWcYx/view?usp=sharing)
+
 # Future scope
-1. Integrating Portis.io for seamless user experience.
-2. Implementing single tap Dai conversion mechanism.
-3. Allowing user to carry out transactions on different side-chains.
+* Integrating Portis.io for seamless user experience.
+* Implementing single tap Dai conversion mechanism.
+* Allowing user to carry out transactions on different side-chains.
+
 
 # License!
 MIT
