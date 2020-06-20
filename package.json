@@ -8,7 +8,7 @@
     "bootstrap": "^4.1.3",
     "eth-sig-util": "^1.4.2",
     "ethereumjs-util": "^5.2.0",
-    "ethers": "^4.0.0-beta.14",
+    "ethers": "^5.0.0",
     "jquery": "^3.3.1",
     "openzeppelin-solidity": "^1.12.0",
     "react": "^16.5.0",
@@ -18,7 +18,7 @@
     "react-scripts": "1.1.5",
     "reactstrap": "^6.4.0",
     "truffle": "^4.1.14",
-    "web3": "^1.0.0-beta.36"
+    "web3": "^1.2.8"
   },
   "scripts": {
     "start": "react-scripts start",
