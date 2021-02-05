@@ -9,7 +9,7 @@
     "eth-sig-util": "^1.4.2",
     "ethereumjs-util": "^5.2.0",
     "ethers": "^4.0.0-beta.14",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "openzeppelin-solidity": "^1.12.0",
     "react": "^16.5.0",
     "react-bootstrap": "^0.32.4",
@@ -18,16 +18,20 @@
     "react-scripts": "1.1.5",
     "reactstrap": "^6.4.0",
     "truffle": "^4.1.14",
-    "web3": "^1.0.0-beta.36"
+    "web3": "^1.0.0-beta.36",
+    "snyk": "^1.316.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-sass": "^4.0.1"
-  }
+  },
+  "snyk": true
 }
