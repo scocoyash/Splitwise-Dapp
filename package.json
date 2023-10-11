@@ -18,7 +18,7 @@
     "react-scripts": "4.0.0",
     "reactstrap": "^6.4.0",
     "truffle": "^4.1.14",
-    "web3": "^1.2.8"
+    "web3": "^1.7.5"
   },
   "scripts": {
     "start": "react-scripts start",
