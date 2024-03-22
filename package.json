@@ -15,10 +15,10 @@
     "react-bootstrap": "^0.32.4",
     "react-dom": "^16.5.0",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "4.0.0",
+    "react-scripts": "5.0.0",
     "reactstrap": "^6.4.0",
     "truffle": "^4.1.14",
-    "web3": "^1.2.8"
+    "web3": "^4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
