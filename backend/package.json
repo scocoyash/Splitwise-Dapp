@@ -11,7 +11,7 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
-    "express": "^4.16.3",
-    "mongoose": "^5.13.20"
+    "express": "^4.21.2",
+    "mongoose": "^8.8.3"
   }
 }
